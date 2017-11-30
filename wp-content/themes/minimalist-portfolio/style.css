@@ -1,0 +1,140 @@
+/*
+ Theme Name:   Minimalist Portfolio
+ Theme URI:    https://colormelon.com/minimalist-portfolio-theme-tutorial
+ Description:  Make a minimalistic portfolio with this Hamilton child theme by adding the power of Easy Photography Portfolio. Simple and Free!
+ Author:       Colormelon
+ Author URI:   https://colormelon.com
+ Template:     hamilton
+ Version:      1.0.7
+ License:      GNU General Public License v3 or later
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:		   photography, portfolio, blog, custom-background, editor-style, featured-images, threaded-comments
+ Text Domain:  minimalist-portfolio
+*/
+
+
+/* ========= "Easy Photography Portfolio" Overrides ========= */
+
+/**
+	Override:
+	Hamilton style container width
+ */
+.PP_Wrapper {
+	margin: 0 auto;
+	max-width: 1240px;
+	width: 90%;
+}
+
+/**
+	Override:
+	Masonry item width
+ */
+.PP_Masonry .PP_Masonry__item,
+.PP_Masonry .PP_Masonry__sizer {
+	width: 50%;
+}
+
+
+/* ========= Portfolio Styles ========= */
+
+
+/**
+	Make "Easy Photography Portfolio" look more like Hamilton theme
+ */
+.PP_Entry__header {
+	font-weight: 300;
+	letter-spacing: -.025em;
+}
+
+.PP_Entry__title {
+	font-size: 40px;
+	margin-bottom: .75rem;
+}
+
+.PP_Card .PP_Entry__subtitle {
+	font-size: 1.45rem;
+}
+
+.PP_Card .PP_Entry__more {
+	padding: 2.5rem;
+	transition: all .3s ease-in-out;
+}
+
+.PP_Card .PP_Entry__header {
+	bottom: 2.5rem;
+	left: 2.5rem;
+}
+
+.PP_Card .PP_Entry__view {
+	font-size: 1.125rem;
+	text-transform: none;
+}
+
+.PP_Lazy_Image__placeholder {
+	background-color: #efefef;
+}
+
+.site-footer .site-footer__by {
+	font-size: .875rem;
+}
+
+.PP_Gallery__caption {
+	position: absolute;
+	bottom: 1rem;
+	left: 1rem;
+	background-color: white;
+	display: inline-block;
+	width: auto;
+	padding: 1rem;
+	line-height: 1.77;
+}
+
+/* ========= Hamilton Overrides ========= */
+
+/*
+	Fix Hamilton Bugs:
+ */
+.site-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.show-alt-nav .alt-nav {
+	margin-left: auto;
+}
+
+
+/**
+	Responsive styles
+ */
+
+@media screen and (max-width: 640px) {
+	.PP_Masonry .PP_Masonry__item,
+	.PP_Masonry .PP_Masonry__sizer {
+		margin: 0;
+		border-width: 10px;
+	}
+	
+	.PP_Card .PP_Entry__header {
+		bottom: 1rem;
+		left: 1rem;
+	}
+	
+	.PP_Card .PP_Entry__title {
+		font-size: 1.5rem;
+	}
+	
+	.PP_Card .PP_Entry__subtitle {
+		font-size: 1rem;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	.PP_Masonry .PP_Masonry__item,
+	.PP_Masonry .PP_Masonry__sizer {
+		margin: 0 auto 1rem;
+		border-width: 0px;
+		width: 100%;
+	}
+}
