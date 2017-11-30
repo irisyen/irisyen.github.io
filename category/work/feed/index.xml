@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>work &#8211; wp site</title>
+	<atom:link href="http://localhost/wordpress/category/work/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 30 Nov 2017 06:22:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<item>
+		<title>work 2</title>
+		<link>./../../../work-2/index.html</link>
+		<comments>./../../../work-2/index.html#respond</comments>
+		<pubDate>Thu, 30 Nov 2017 06:21:10 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=13</guid>
+		<description><![CDATA[Hello~~~~]]></description>
+				<content:encoded><![CDATA[		<div class="elementor elementor-13">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="16c03c95" class="elementor-element elementor-element-16c03c95 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="570b3521" class="elementor-element elementor-element-570b3521 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="405e3cd5" class="elementor-element elementor-element-405e3cd5 animated zoomIn elementor-invisible elementor-widget elementor-widget-image" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+		<img width="400" height="400" src="./../../../wp-content/uploads/2017/11/pevXVsIp_400x400.jpg" class="elementor-animation-pulse-shrink attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2017/11/pevXVsIp_400x400.jpg 400w, ./../../../wp-content/uploads/2017/11/pevXVsIp_400x400-150x150.jpg 150w, ./../../../wp-content/uploads/2017/11/pevXVsIp_400x400-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="89353be" class="elementor-element elementor-element-89353be elementor-column elementor-col-66 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3caf0369" class="elementor-element elementor-element-3caf0369 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Hello~~~~</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="23c2634e" class="elementor-element elementor-element-23c2634e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="459cb09a" class="elementor-element elementor-element-459cb09a elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div data-id="106558db" class="elementor-element elementor-element-106558db elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="199ef622" class="elementor-element elementor-element-199ef622 elementor-widget elementor-widget-wp-widget-pages" data-element_type="wp-widget-pages.default">
+				<div class="elementor-widget-container">
+			<h5>CV</h5>		<ul>
+			<li class="page_item page-item-7"><a href="./../../../contact/index.html">Contact</a></li>
+<li class="page_item page-item-3"><a href="./../../../cv/index.html">CV</a></li>
+		</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="4eeb18e4" class="elementor-element elementor-element-4eeb18e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="35c7c54d" class="elementor-element elementor-element-35c7c54d elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="2192727" class="elementor-element elementor-element-2192727 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+			<wfw:commentRss>./../../../work-2/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>work</title>
+		<link>./../../../work/index.html</link>
+		<comments>./../../../work/index.html#respond</comments>
+		<pubDate>Thu, 30 Nov 2017 06:06:08 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=5</guid>
+		<description><![CDATA[my work 123455555]]></description>
+				<content:encoded><![CDATA[<p>my work 123455555</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../work/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
