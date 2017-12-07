@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Dec 2017 08:22:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2017 08:35:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,7 +45,7 @@
 						</div>
 			</div>
 		</section>
-				<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+				<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="a4668f8" class="elementor-element elementor-element-a4668f8 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
