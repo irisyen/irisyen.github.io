@@ -12,24 +12,40 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Dec 2017 04:31:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2017 07:21:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.1</generator>
 	<item>
-		<title>Music visualization</title>
+		<title>Music Visualization</title>
 		<link>./../music-visualization/index.html</link>
 		<pubDate>Thu, 30 Nov 2017 06:21:10 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=13</guid>
-		<description><![CDATA[https://youtu.be/4RFmEZIRln4]]></description>
+		<description><![CDATA[Creating music waveform by using Processing.]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-13">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+							<section data-id="f1d11ac" class="elementor-element elementor-element-f1d11ac elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="6b6a991" class="elementor-element elementor-element-6b6a991 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="c46b782" class="elementor-element elementor-element-c46b782 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Creating music waveform by using Processing. </h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="a4668f8" class="elementor-element elementor-element-a4668f8 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -38,7 +54,7 @@
 				<div data-id="4c33186" class="elementor-element elementor-element-4c33186 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-element_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe src="https://www.youtube.com/embed/4RFmEZIRln4?feature=oembed&amp;autoplay=0&amp;rel=0&amp;controls=1&amp;showinfo=1&amp;mute=0&amp;wmode=opaque" allowfullscreen></iframe>		</div>
+			<iframe src="https://www.youtube.com/embed/08Y2X7D9I-I?feature=oembed&amp;autoplay=0&amp;rel=0&amp;controls=1&amp;showinfo=1&amp;mute=0&amp;wmode=opaque" allowfullscreen></iframe>		</div>
 			</div>
 				</div>
 						</div>
@@ -47,7 +63,7 @@
 						</div>
 			</div>
 		</section>
-				<section data-id="8e12963" class="elementor-element elementor-element-8e12963 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+				<section data-id="8e12963" class="elementor-element elementor-element-8e12963 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="7a89850" class="elementor-element elementor-element-7a89850 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -56,7 +72,7 @@
 				<div data-id="3aa175c" class="elementor-element elementor-element-3aa175c elementor-widget elementor-widget-image" data-element_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-		<img width="492" height="358" src="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277.png" class="attachment-hamilton_fullscreen-image size-hamilton_fullscreen-image" alt="" srcset="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277.png 492w, ./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277-300x218.png 300w" sizes="(max-width: 492px) 100vw, 492px" />		</div>
+		<img src="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277.png" title="螢幕快照 2017-11-30 下午5.13.10" alt="螢幕快照 2017-11-30 下午5.13.10" />		</div>
 				</div>
 				</div>
 						</div>
