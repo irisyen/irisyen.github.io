@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/category/work/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 05 Dec 2017 04:05:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2017 03:38:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -25,20 +25,20 @@
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?p=13</guid>
-		<description><![CDATA[https://youtu.be/EokwvLWq0jY]]></description>
+		<description><![CDATA[https://youtu.be/4RFmEZIRln4]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-13">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section data-id="ea41e98" class="elementor-element elementor-element-ea41e98 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-top-section" data-element_type="section">
+							<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div data-id="7fa3a11" class="elementor-element elementor-element-7fa3a11 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+				<div data-id="a4668f8" class="elementor-element elementor-element-a4668f8 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div data-id="574da05" class="elementor-element elementor-element-574da05 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-element_type="video.default">
+				<div data-id="4c33186" class="elementor-element elementor-element-4c33186 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-element_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe src="https://www.youtube.com/embed/EokwvLWq0jY?feature=oembed&amp;autoplay=0&amp;rel=0&amp;controls=1&amp;showinfo=1&amp;mute=0&amp;wmode=opaque" allowfullscreen></iframe>		</div>
+			<iframe src="https://www.youtube.com/embed/4RFmEZIRln4?feature=oembed&amp;autoplay=0&amp;rel=0&amp;controls=1&amp;showinfo=1&amp;mute=0&amp;wmode=opaque" allowfullscreen></iframe>		</div>
 			</div>
 				</div>
 						</div>

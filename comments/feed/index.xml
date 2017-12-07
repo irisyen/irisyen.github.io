@@ -10,7 +10,7 @@
 	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 05 Dec 2017 04:15:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2017 03:40:23 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.1</generator>
