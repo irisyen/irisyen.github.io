@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Dec 2017 03:38:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Dec 2017 04:26:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -29,7 +29,7 @@
 				<content:encoded><![CDATA[		<div class="elementor elementor-13">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+							<section data-id="5cc6837" class="elementor-element elementor-element-5cc6837 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="a4668f8" class="elementor-element elementor-element-a4668f8 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -56,7 +56,7 @@
 				<div data-id="3aa175c" class="elementor-element elementor-element-3aa175c elementor-widget elementor-widget-image" data-element_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-		<img width="560" height="350" src="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-1024x640.png" class="attachment-large size-large" alt="" srcset="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-1024x640.png 1024w, ./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-768x480.png 768w, ./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-1200x750.png 1200w" sizes="(max-width: 560px) 100vw, 560px" />		</div>
+		<img width="492" height="358" src="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277.png" class="attachment-hamilton_fullscreen-image size-hamilton_fullscreen-image" alt="" srcset="./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277.png 492w, ./../wp-content/uploads/2017/11/螢幕快照-2017-11-30-下午5.13.10-e1512034690277-300x218.png 300w" sizes="(max-width: 492px) 100vw, 492px" />		</div>
 				</div>
 				</div>
 						</div>
