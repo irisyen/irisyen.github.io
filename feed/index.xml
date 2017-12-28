@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Dec 2017 15:26:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Dec 2017 16:21:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -113,11 +113,27 @@
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=110</guid>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[Photoshop work]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-110">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section data-id="31bbfcf" class="elementor-element elementor-element-31bbfcf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+							<section data-id="76fda80" class="elementor-element elementor-element-76fda80 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="09e3283" class="elementor-element elementor-element-09e3283 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="666417f" class="elementor-element elementor-element-666417f elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Photoshop work</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="31bbfcf" class="elementor-element elementor-element-31bbfcf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="0d43d01" class="elementor-element elementor-element-0d43d01 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -148,11 +164,27 @@
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=106</guid>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[Photoshop and Illustrator work]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-106">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-							<section data-id="89cd14a" class="elementor-element elementor-element-89cd14a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+							<section data-id="4e66063" class="elementor-element elementor-element-4e66063 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="bd603bf" class="elementor-element elementor-element-bd603bf elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3742fd7" class="elementor-element elementor-element-3742fd7 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Photoshop and Illustrator work</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="89cd14a" class="elementor-element elementor-element-89cd14a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div data-id="b8665e1" class="elementor-element elementor-element-b8665e1 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
@@ -183,7 +215,7 @@
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=13</guid>
-		<description><![CDATA[Creating music waveform by using Processing.]]></description>
+		<description><![CDATA[Creating music waveform by using Processing and connecting to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange.]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-13">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
@@ -195,7 +227,7 @@
 					<div class="elementor-widget-wrap">
 				<div data-id="c46b782" class="elementor-element elementor-element-c46b782 elementor-widget elementor-widget-heading" data-element_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Creating music waveform by using Processing. </h2>		</div>
+			<h3 class="elementor-heading-title elementor-size-medium">Creating music waveform by using Processing and connecting to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange.</h3>		</div>
 				</div>
 						</div>
 			</div>
