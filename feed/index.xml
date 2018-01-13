@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 13 Jan 2018 05:51:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2018 06:05:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -175,14 +175,14 @@
 		]]></content:encoded>
 			</item>
 		<item>
-		<title>Music Visualization</title>
+		<title>Device for preventing hearing loss</title>
 		<link>./../music-visualization/index.html</link>
 		<pubDate>Thu, 30 Nov 2017 06:21:10 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 				<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=13</guid>
-		<description><![CDATA[An attempt to develop a device for music lovers to prevent hearing loss. I created a music waveform by using Processing and connected it to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange to visually informed users that the volume of the song is too loud for the ears.]]></description>
+		<description><![CDATA[An attempt to develop a device for music lovers to prevent hearing loss. I created a music waveform by using Processing and connected it to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange to visually informed users that the volume of the song is too loud for the ears. [&#8230;]]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-13">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
@@ -194,7 +194,7 @@
 					<div class="elementor-widget-wrap">
 				<div data-id="c46b782" class="elementor-element elementor-element-c46b782 elementor-widget elementor-widget-heading" data-element_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-medium"><span style="font-weight:normal;" id="docs-internal-guid-528c8d8d-edf5-c747-3593-ae5f0ecb9ebb"><h3 dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.5pt; font-family: Roboto; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">An attempt to develop a device for music lovers to prevent hearing loss.</span></h3><br><h3 dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.5pt; font-family: Roboto; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">I created a music waveform by using Processing and connected it to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange to visually informed users that the volume of the song is too loud for the ears.</span></h3></span></h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-medium"><span style="font-weight:normal;" id="docs-internal-guid-528c8d8d-edf5-c747-3593-ae5f0ecb9ebb"><h3 dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.5pt; font-family: Roboto; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">An attempt to develop a device for music lovers to prevent hearing loss.</span></h3><br><h3 dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.5pt; font-family: Roboto; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">I created a music waveform by using Processing and connected it to ThingSpeak(IoT Analytics) to automatically calculate the frequency of low-pitched sound which is marked orange to visually informed users that the volume of the song is too loud for the ears.</span></h3></span><br><span style="font-family: Roboto; font-size: 14.5pt; font-weight: 400; text-indent: 36pt;">The design aims to automatically adjust the volume of songs when perceiving certain frequency of low-pitched, loud sound that might be harmful to human. </span></h3>		</div>
 				</div>
 						</div>
 			</div>
